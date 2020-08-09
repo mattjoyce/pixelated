@@ -1,0 +1,26 @@
+{
+  "fitbit": {
+    "appUUID": "cb3da72a-d24c-4e62-8bc9-64eba21ab5a3",
+    "appType": "clockface",
+    "appDisplayName": "Pixelated",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity"
+    ],
+    "buildTargets": [
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Pixelated"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

@@ -1,0 +1,39 @@
+.background {
+  viewport-fill: #000000;
+}
+
+#hourLbl {
+  x: 20;
+  y: 100%-90;
+  fill: white;
+}
+
+#dayLbl {
+  fill: white;
+  x: 20;
+  y: 100%-60;
+}
+
+#monthLbl {
+  fill: white;
+  x: 100%-20;
+  y: 100%-60;
+}
+
+#stepsLbl {
+  fill: white;
+  x: 20;
+  y: 100%-20;
+}
+
+#batterypercentLbl {
+  fill: white;
+  x: 100%-20;
+  y: 100%-120;
+}
+
+#goalpercentLbl {
+  fill: white;
+  x: 100%-20;
+  y: 100%-20;
+}
